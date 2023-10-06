@@ -1,0 +1,27 @@
+
+
+html,body{
+margin: 0;
+padding: 0;
+
+}
+
+.sobre{
+  width: 100%;
+  min-height: 40vh;
+  font-size: 14pt;
+  color: rgb(252, 252, 247);
+  background-color: #022f3bc4;
+  text-align: center;
+  padding: 10px 0 0 0;
+  line-height: 30px;
+  margin-bottom: 17px;
+  
+}
+#txo{
+  font-size: 30px;
+}
+
+#obrig{
+  background-image: url(./clareesc.jpg);
+}
