@@ -36,3 +36,7 @@ padding: 0;
 p{
   font-size: 20px;
 }
+
+.enabled{
+  position: inherit;
+}
